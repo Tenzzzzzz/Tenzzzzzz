@@ -2,9 +2,9 @@
 
 Cybersecurity engineer with a strong focus on:
 - Malware analysis
-- threat detection
-- soc analysis
-- app development 
+- Threat detection
+- Soc analysis
+- App development 
 
 ## Skills
 - Python
